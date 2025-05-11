@@ -33,5 +33,5 @@ A full-stack web application built with **React.js**, **Node.js**, **Express**, 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-project.git
+git clone https://github.com/klu2300031917/FoodWasteManagement
 cd your-project
