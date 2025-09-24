@@ -1,5 +1,5 @@
 # FoodWasteManagement
-Batch No. 21, Project No. 39, Section No. 13, ID Nos. 2300031917, 2300032367, 2300032227
+Batch No. 14, Project No. 39, Section No. 101, ID Nos. 2300031917, 2300031782, 2300090054
 
 
 # 🍱 Food Waste Management App
