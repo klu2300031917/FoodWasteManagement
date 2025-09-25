@@ -147,6 +147,6 @@ For questions or feedback, feel free to contact the developer.
 
 
  All Rights Reserved to the Foodwastemanagement team :-
- Team lead: 1:Govindu vishnu Karthik(Project Speaker)
-            2:Shaik Anas Basha(Main Programmer Frontend+Backend)
-            3:N.V.D Karthik(Resourse and Error Handler)
+ Team lead: 1:Karthikeya
+            2:vishnu Karthik
+            3:Lakshmi chetan
